@@ -1,0 +1,3 @@
+Türk Ceza Kanunu'nun 6/1-e maddesindeki "Güneşin batmasından bir saat sonra başlayan ve doğmasından bir saat evvele kadar devam eden zaman süresi" olarak tanımlanan gece vakti;
+UYAP Bilişim sisteminde, 81 il ve ilçeleri için "Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü"den alınan ve Güneş’in doğuş-batış zamanları yıllara göre değişim göstermediğinden her yıl için kullanılabileceği belirtilen, veriler ve 25.03.1990 yılından sonraki dönem için resmi olarak belirlenen yaz saati uygulama tarihleri dikkate alınarak hesaplama yapılmakta olup, tarih, yer ve suç saati girildiğinde sonuç vermektedir. 
+(Lütfen: Kullanım sırasında tespit edilen hataları "osmankoksal@hotmail.com.tr" adresine bildiriniz.
